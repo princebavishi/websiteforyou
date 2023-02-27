@@ -1,0 +1,67 @@
+.bg {
+    height: auto;
+    background-color: #000000;
+    /* background: linear-gradient(45deg, #c11c1c, #20ca4d); */
+    color: rgba(255, 255, 255, 0.853);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.a1 {
+    color: rgb(0, 255, 13);
+    width: 80px;
+    border: solid 5px rgb(128, 255, 0);
+    border-radius: 10px;
+    padding: 8px;
+    margin: 15px;
+    align-items: center;
+    background: linear-gradient(45deg, #151515, #5190628a);
+}
+
+.app-1 {
+    display: flex;
+    margin-left: 200px;
+}
+
+.app-2 {
+
+    width: 90px;
+    padding-left: 40px;
+}
+
+.b {
+    color: rgb(0, 255, 13);
+    width: 90px;
+    border: solid 5px rgb(0, 255, 0);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px 0px 0px 0px;
+    background: linear-gradient(45deg, #000000, #00ff268a);
+}
+
+.app-3 {
+    display: flex;
+    width: 90px;
+    padding: 10px;
+}
+
+
+.myclass {
+    display: flex;
+    margin: 100px;
+    /* background-color: linear-gradient(45deg, #ff0505, #00ff26); */
+
+}
+
+.d {
+    color: #000000;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(45deg, #40ff00, #fdfffe, rgb(255, 111, 0));
+    margin: 30px;
+    padding: 20px;
+    border: solid 10px red;
+    border-radius: 40px;
+    height: auto;
+    text-align: center;
+}
